@@ -1,0 +1,132 @@
+.inicio{
+    background-color: #E5E5E5;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.logo{
+ margin-top: 40px;
+ margin-left: 20px;
+ float: left;  
+    
+}
+
+/*Cuadro para ingresar texto para encriptar*/
+.contenedor{
+    overflow: hidden;
+}
+
+.item{
+    float: left;
+}
+.tareab{
+    font-size: 24px;
+    color: #0A3871;
+    background-color: #E5E5E5;
+    padding: 10px;
+    margin-top: 168px; 
+    margin-left: 100px;
+    border: none;
+}
+
+/*Mensaje de Advertencia Usuario*/
+.madvertencia{
+    font-size: 12px;
+    margin-top: 250px;
+    margin-left:100px;
+    padding: 10px;
+    width: 300px;
+}
+.sexclamacion{
+    float: left;
+}
+
+/*Botones*/
+.bot-encriptar{
+     padding: 20px;
+     width: 250px;
+     height: 60px;
+     margin-left: 100px;
+     color: white;
+     background-color: #0A3871;
+     border: none;
+     border-radius: 24px;
+     font-size: larger;
+}
+.bot-encriptar:hover{
+    cursor:pointer;
+    background-color: green;
+    }
+
+.bot-desencriptar{
+    padding: 20px;
+    width: 250px;
+    height: 60px;
+    margin-left: 20px;
+    background-color: skyblue;
+    color: #0A3871;
+    border: none;
+    border-radius: 24px;
+    font-size: larger;
+}
+.bot-desencriptar:hover{
+    cursor:pointer;
+    background-color: orange;
+    }
+
+/*Segundo Bloque de Pagina*/
+.caja{
+    background: #FFFFFF;
+    width: 450px;
+    height: 850px;
+    margin-top: 40px;
+    margin-left: 120px;
+    margin-bottom: 40px;
+    border-radius: 32px;
+}
+
+.muneco{
+    margin-top: 120px;
+    padding: 30px;
+}
+
+.textabd{
+    font-size: 25px;
+    color: black;
+    background-color: white;
+    padding: 10px; 
+    margin-left: 50px;
+    text-align: center;
+    border: none;
+}
+
+.texto{
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+    padding: 20px 40px;
+}
+
+.bot-copiar{
+    padding: 10px;
+    color: #FFFFFF;
+    background-color: blue;
+    border: none;
+    border-radius: 25px;
+    font-size: larger;
+    margin-left: 160px;
+}
+.bot-copiar:hover{
+    cursor:pointer;
+    background-color: rebeccapurple;
+    }
+
+
+/*Footer*/
+.authorder{
+    color: black ;
+    font-style: oblique;
+    text-align: center;
+    font-size: medium;
+    padding: 20px;
+  }
